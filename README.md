@@ -3,7 +3,7 @@
 **TRTT Statistics** works like IBM SPSS Statistics: the same Data View and Variable View, the same Analyze menu, the same output tables, and a Syntax window that runs SPSS command syntax. Open your `.sav` files, run crosstabs, t-tests, ANOVA or regression, and get SPSS-style output.
 
 - **Web: free, no account, nothing to install** → **[trtt.app](https://trtt.app/)**
-- **iPhone and iPad** → **[TRTT on the App Store](https://apps.apple.com/app/id6792289585?ct=github)**
+- **iPhone and iPad** → **[TRTT on the App Store](https://apps.apple.com/app/id6792289585)**
 
 This repository is the public home of TRTT: bug reports, feature requests and release notes. The source code is not public at this time.
 
@@ -60,7 +60,7 @@ SPSS-style pivot tables and charts in an output viewer. Export the whole output 
 
 ## Platforms and pricing
 
-| | Web ([trtt.app](https://trtt.app/)) | iPhone and iPad ([App Store](https://apps.apple.com/app/id6792289585?ct=github)) |
+| | Web ([trtt.app](https://trtt.app/)) | iPhone and iPad ([App Store](https://apps.apple.com/app/id6792289585)) |
 |---|---|---|
 | Price | Free | Free download; all features work on datasets up to 100 cases. TRTT Pro (weekly, monthly or one-time lifetime purchase) removes the limit. Prices are shown in the app. |
 | Account | Not needed | Not needed |
