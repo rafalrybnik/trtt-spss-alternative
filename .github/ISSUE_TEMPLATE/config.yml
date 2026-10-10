@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Open TRTT in your browser (free)
+    url: https://trtt.app/
+    about: Try TRTT without installing anything.
+  - name: TRTT for iPhone and iPad
+    url: https://apps.apple.com/app/id6792289585?ct=github
+    about: Download TRTT from the App Store.
