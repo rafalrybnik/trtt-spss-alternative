@@ -1,6 +1,6 @@
 # TRTT press kit
 
-TRTT is a statistics app that works the way SPSS users expect: Data View, Variable View, the Analyze menu and SPSS syntax. It opens .sav files and runs the analyses taught in research methods courses. The web version is free and needs no install or account; a native app runs on iPhone and iPad.
+TRTT is a statistics app with an interface nearly identical to SPSS, so SPSS users can switch without relearning anything. It opens .sav files, runs SPSS syntax and the analyses taught in research methods courses. The web version is free and needs no install or account; a native app runs on iPhone and iPad.
 
 - **Web:** https://trtt.app (free, no account)
 - **iPhone and iPad:** https://apps.apple.com/app/id6792289585 (free download; TRTT Pro in-app purchase removes the 100-case limit)
